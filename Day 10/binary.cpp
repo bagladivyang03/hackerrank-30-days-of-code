@@ -35,7 +35,6 @@ int main()
 {
     int n;
     cin >> n;
-    cin.ignore(numeric_limits<streamsize>::max(), '\n');
     int counter =0,maxcounter = 0;
     int n1, num =0;
     while(n){
