@@ -117,33 +117,5 @@
 * Day29
     * [Problem](https://www.hackerrank.com/challenges/30-bitwise-and/problem)
     * [Solution](https://github.com/bagladivyang03/hackerrank-30-days-of-code/tree/master/Day%2029)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ * Day30
